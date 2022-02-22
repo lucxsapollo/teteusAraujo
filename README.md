@@ -24,12 +24,12 @@
   </a>
 </p>
 
-## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o BATISTA! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
+<p> - 👨‍💻 Engenheiro de Software Jr na Nubank. </p>
 <p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
 <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
 <p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
